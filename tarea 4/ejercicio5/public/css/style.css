@@ -34,18 +34,10 @@ ul {
     justify-content:space-between;
     text-align: center;
 }
-/* Profe aca use un selector que no vimos despues todo lo
-demas lo saque yo a coclusion y leyendo el repaso que nos dio */
-li:nth-child(9), li:nth-child(10) {
-    display: flex;
-    flex: 0  0 40%;
-    order: -1;
-}
 li{
     display: flex;
     flex: 1 1 15%;
     order: -1;
    justify-content: center;
-    
 }
     
